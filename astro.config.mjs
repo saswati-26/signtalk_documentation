@@ -5,22 +5,41 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'SignMate Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/saswati-26',
 			},
 			sidebar: [
 				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ 
+							label: 'Introduction', 
+							slug: 'introduction'
+						 },
+						 {
+							label: 'Getting Started',
+							slug: 'getting_started'
+						 },
+						 {
+							label: 'Features',
+							slug: 'features'
+						 },
+						 {
+							label: 'Admin Website',
+							slug: 'admin_website'
+						 },
+						 {
+							label: 'User Guide',
+							slug: 'user_guide'
+						 },
+						 {
+							label: 'FAQs',
+							slug: 'faqs'
+						 }
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+				}
 			],
 		}),
 	],
