@@ -13,12 +13,12 @@ description: This page contains the introduction to our SignMate application
 <br>
 
 #### Introduction
-Welcome to the "Learning App for Deaf and Mute with Indian sign language Converter" documentation. This innovative Android and iOS compatible application is specifically designed to assist the deaf and mute community in India, by providing a comprehensive platform for learning and communication through sign language. Whether you are a student, teacher, parent, or HR professional, this app offers tailored tools to meet your needs.
+Welcome to the "Learning App for Deaf and Mute with Indian Sign Language Converter" documentation. This innovative Android and iOS compatible application is specifically designed to assist the deaf and mute community in India, by providing a comprehensive platform for learning and communication through sign language. Whether you are a student, teacher, parent, or HR professional, this app offers tailored tools to meet your needs.
 
 #### Purpose and Goal
-The primary purpose of this app is to bridge the communication gap by converting text and speech into indian sign language, making it easier for deaf and mute individuals to learn, communicate, and interact. The app is developed using **React Native**, ensuring a smooth and responsive user experience across different devices, both ***Android and iOS*** platforms.
+The primary purpose of this app is to bridge the communication gap by converting text and speech into Indian Sign Language, making it easier for deaf and mute individuals to learn, communicate, and interact. The app is developed using **React Native**, ensuring a smooth and responsive user experience across different devices, both ***Android and iOS*** platforms.
 
-The aap aims with the motto or goal of "Inclusivity", to ensure that the deaf and mute have equal access to educational resources and maintain equality in workplace also.
+The app aims with the motto or goal of "Inclusivity" (Equality), to ensure that the deaf and mute have equal access to educational resources and maintain equality in workplace also.
 
 #### Target Audience
 The target audience of our Android app are as follows:

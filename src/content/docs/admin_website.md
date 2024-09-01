@@ -6,6 +6,7 @@ description: This website is for the admin/teachers to upload videos and assignm
 ## Admin Website
 
 #### Overview
+<br>
 The Admin Website is a crucial component of our application. It is specifically designed to empower teachers by providing them with a robust and user-friendly platform to manage the educational content. The admin website serves as the central hub where teachers can upload videos and create exercises, ensuring that the learning experience is both effective and engaging.
 
 #### Content Management

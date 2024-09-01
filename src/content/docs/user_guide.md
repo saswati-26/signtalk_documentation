@@ -21,6 +21,8 @@ This application is an inclusive educational platform designed to bridge the com
 - The Settings is where you can increase or decrease the font size and change the mode .i.e light mode to dark mode and vice versa
 
 ***For Students***
+<br>
+
 **1. Learning Modules:**
   - Interpretation of alphabets and numbers: Learn alphabets and numbers through interactive sign language tutorials.
   - Greetings and Emotions: Learn greetings and emotions through interactive sign language tutorials
@@ -38,6 +40,8 @@ This application is an inclusive educational platform designed to bridge the com
 
 
 ***For Teachers***
+<br>
+
 **1. Upload Videos:**
 
 - Design and assign lessons to your students using the admin website
@@ -47,6 +51,8 @@ This application is an inclusive educational platform designed to bridge the com
 - Create customized exercises to strengthen learning.
   
 ***For Parents***
+<br>
+
 **1. Support Your Child:**
 
 - Access the same learning modules as your child to help them study at home.
@@ -56,6 +62,8 @@ This application is an inclusive educational platform designed to bridge the com
 - Review your child's progress reports to ensure they are on track with their learning.
 
 ***For HR Professionals***
+<br>
+
 **1. Inclusivity Tools:**
 - Use our application's speech-to-sign and text-to-sign converter tool during interviews and meetings to ensure effective communication.
 - Access our application's resources to better understand and support deaf and mute employees.
