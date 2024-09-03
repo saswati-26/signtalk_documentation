@@ -24,7 +24,7 @@ description: This page gives an idea of getting started with our SignMate applic
 
 #### Installation
 
-- **For Android Users**: [Link](https://www.google.com/)
+- **For Android Users**: [Link](https://expo.dev/artifacts/eas/pqL1bhnP8VQTMKYJL6ckJH.apk)
 - **For iOS Users**: [Link](https://www.google.com/)
 - **For admins**: [Link](https://www.google.com/)
   (This is the admin website for the teachers to upload videos and exercises.)
