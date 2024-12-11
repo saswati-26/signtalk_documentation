@@ -11,7 +11,6 @@ This is the installation guide for the installation of **SignMate** mobile appli
 <br />
 
 **Step 1:** Click on the installation link provided in the [Getting Started - Installation](/getting_started#installation) based on your OS type (Android or iOS)
-![installation link](/src/assets/SignMate-removebg.png "Installation Link")
 
 <br />
 
@@ -27,11 +26,12 @@ This is the installation guide for the installation of **SignMate** mobile appli
 
 <br />
 
-![link video](/src/assets/install_videos/VN20241211_124914.mp4)
-![install video](/src/assets/install_videos/VN20241211_125055.mp4)
-![open video](/src/assets/install_videos/VN20241211_125132.mp4)
+<video width='250px' height='350px' autoplay loop>
+<source src='/src/assets/install_videos/VID_20241211143619.mp4'>
+</video>
 
 <br />
+
 Now, **SignMate** has successfully installed in your mobile phone.
 
 <br />
